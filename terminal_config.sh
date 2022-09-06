@@ -1,3 +1,4 @@
+brew install npm #bc yarn is sus
 brew install ranger #: cracked file browser
 brew install ncdu #: see what takes up all that space
 brew install node #: Platform built on V8 to build network applications
