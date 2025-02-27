@@ -38,3 +38,5 @@ apns.apple.com
 p48-mail.icloud.com
 p69-mail.icloud.com
 m5.apple.com
+amp-api-edge.apps.apple.com
+is1-ssl.mzstatic.com
